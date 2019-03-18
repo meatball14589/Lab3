@@ -1,7 +1,4 @@
 <marquee>
-<img scr = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdAp731fTgttF_peAGCjUcvv_68O2bOhnyGELl4gp0wxsAribm" alt="" width="630" height="635">
-</marquee>
-<marquee>
 Hello
 </marquee>
 <p style="text-align: center;"><span style="color: #800080;">姓名: 周彥亞</span></p>
