@@ -1,6 +1,9 @@
 <marquee>
 <img scr = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdAp731fTgttF_peAGCjUcvv_68O2bOhnyGELl4gp0wxsAribm">
 </marquee>
+<marquee>
+Hello
+</marquee>
 <p style="text-align: center;"><span style="color: #800080;">姓名: 周彥亞</span></p>
 <p style="text-align: center;"><span style="color: #800080;">生日: 1999/02/07</span></p>
 <p style="text-align: center;"><span style="color: #800080;">就讀: 輔仁大學資訊工程學系</span></p>
