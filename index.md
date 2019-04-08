@@ -1,4 +1,4 @@
-<body>
+
   <script>
     	$(document).ready(function () {
         $("#div1").hide();
@@ -7,7 +7,7 @@
         });
     });
   </script>
-</body>
+
 <marquee>
 Hello
 </marquee>
