@@ -19,7 +19,7 @@ Hello
 <p style="text-align: center;"><span style="color: #800080;"><img src="https://i.ytimg.com/vi/I4rEJw5vDbA/maxresdefault.jpg" alt="" width="282" height="159" /></span></p>
 <p style="text-align: center;"><span style="color: #800080;">英雄聯盟LMS台港澳賽區</span></p>
 
-<button type="button" style="width:200px;height:40px;font-size:20px;center ;">★點我查看更多★</button>
+<button type="button" style="width:200px;height:40px;font-size:20px;text-align: center ;">★點我查看更多★</button>
 
 <div id="div1" style>
 <p style="text-align: center;"><span style="color: #800080;">2019春季賽</span></p>
