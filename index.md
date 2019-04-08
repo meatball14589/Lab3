@@ -1,4 +1,13 @@
-<div id="div1" style>
+<body>
+  <script>
+    	$(document).ready(function () {
+        $("#div1").hide();
+        $("button").click(function () {
+            $("#div1").slideToggle();
+        });
+    });
+  </script>
+</body>
 <marquee>
 Hello
 </marquee>
@@ -8,6 +17,10 @@ Hello
 <p style="text-align: center;"><span style="color: #800080;">興趣: 撞球、打電動</span></p>
 <p style="text-align: center;"><span style="color: #800080;"><img src="https://i.ytimg.com/vi/I4rEJw5vDbA/maxresdefault.jpg" alt="" width="282" height="159" /></span></p>
 <p style="text-align: center;"><span style="color: #800080;">英雄聯盟LMS台港澳賽區</span></p>
+
+<button type="button" style="width:120px;height:40px;font-size:20px;">hljhkhk;jhkj</button>
+
+<div id="div1" style>
 <p style="text-align: center;"><span style="color: #800080;">2019春季賽</span></p>
 <p style="text-align: center;"><span style="color: #800080;">&darr;目前戰績排名&darr;</span></p>
 <p style="text-align: center;"><span style="color: #800080;">1st : MAD Team</span></p>
